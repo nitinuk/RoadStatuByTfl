@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\RoadStatus\RoadStatus\bin\Debug\RoadStatus.exe.config
+C:\Users\Administrator\source\repos\RoadStatus\RoadStatus\bin\Debug\RoadStatus.exe
+C:\Users\Administrator\source\repos\RoadStatus\RoadStatus\bin\Debug\RoadStatus.pdb
+C:\Users\Administrator\source\repos\RoadStatus\RoadStatus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\RoadStatus\RoadStatus\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\source\repos\RoadStatus\RoadStatus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\RoadStatus\RoadStatus\obj\Debug\RoadStatus.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RoadStatus\RoadStatus\obj\Debug\RoadStatus.csproj.CopyComplete
+C:\Users\Administrator\source\repos\RoadStatus\RoadStatus\obj\Debug\RoadStatus.exe
+C:\Users\Administrator\source\repos\RoadStatus\RoadStatus\obj\Debug\RoadStatus.pdb
+C:\Users\Administrator\source\repos\RoadStatus\RoadStatus\obj\Debug\RoadStatus.csprojAssemblyReference.cache
